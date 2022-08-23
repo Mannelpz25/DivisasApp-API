@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NLFsqgq2kHhLNF+BxWt7Our8JjIA2wbUTr/bmj/MBTQwZVFf3o1wmjirPix9ANemGvch6qPC4flcvQp1/NldQ==",
+  "success": true,
+  "projectFilePath": "M:\\Storage\\Documents\\cshaarp\\U2\\EA-U2\\EA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manne\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\manne\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.csproj.AssemblyReference.cache
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.AssemblyInfoInputs.cache
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.AssemblyInfo.cs
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.csproj.CoreCompileInputs.cache
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\EA.exe
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\EA.deps.json
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\EA.runtimeconfig.json
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\EA.dll
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\EA.pdb
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.csproj.CopyComplete
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.dll
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\refint\EA.dll
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.pdb
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\EA.genruntimeconfig.cache
+C:\Users\Administrativo\Documents\manne\C#\Unidad 2\EA\obj\Debug\net6.0\ref\EA.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\EA.exe
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\EA.deps.json
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\EA.runtimeconfig.json
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\EA.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\EA.pdb
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\bin\Debug\net6.0\RestSharp.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.csproj.AssemblyReference.cache
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.GeneratedMSBuildEditorConfig.editorconfig
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.AssemblyInfoInputs.cache
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.AssemblyInfo.cs
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.csproj.CoreCompileInputs.cache
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.csproj.CopyComplete
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\refint\EA.dll
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.pdb
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\EA.genruntimeconfig.cache
+M:\Storage\Documents\cshaarp\U2\EA-U2\obj\Debug\net6.0\ref\EA.dll
